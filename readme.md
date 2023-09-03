@@ -2,8 +2,9 @@
 
 Lectures for education stream in MIPT
 
-In 2023 lessons will be available at Thursday each week.
+In 2023 lessons will be available at Thursday each week
 
+## Timetable
 
 | Lecture | Date | Description | Lecture |
 |---------|------|-------------|---------|  
@@ -17,24 +18,24 @@ In 2023 lessons will be available at Thursday each week.
 ## Organization issues
 
 How to ask question. ABC easy
-A. Try to formulate your question with:
-example: `python fast iterating over dictionary`
-B. Try to formulate your question to [YandexGPT](https://yandex.ru/project/alice/yagpt#download_group):
-example: `Предложи python скрипт запускающий сервер на FastAPI`
-C. Ask question in form:
-https://docs.google.com/spreadsheets/d/1R5YdiCNEVAeaU-RR2cSrZEbvA-Z2LQ90Nx76N0uPDrg/edit#gid=1837925728
-Self-education recommendations:
+
+- A. Try to formulate your question in Yandex. 
+  
+  Example: `python fast iterating over dictionary`
+- B. Try to formulate your question to [YandexGPT](https://yandex.ru/project/alice/yagpt#download_group).
+
+    Example: `Предложи python скрипт запускающий сервер на FastAPI`
+- C. Ask question in [form](https://docs.google.com/spreadsheets/d/1R5YdiCNEVAeaU-RR2cSrZEbvA-Z2LQ90Nx76N0uPDrg/edit#gid=1837925728)
+## Self-education recommendations:
 - Yandex Python handbook:
 https://academy.yandex.ru/handbook/python
-- Timus
+- Free practice platform Timus:
 https://acm.timus.ru/?locale=ru
 
 
 ## Rating
 
-Current rating is available at 
-
-https://docs.google.com/spreadsheets/d/1R5YdiCNEVAeaU-RR2cSrZEbvA-Z2LQ90Nx76N0uPDrg/edit#gid=1837925728
+Current rating is available [here](https://docs.google.com/spreadsheets/d/1R5YdiCNEVAeaU-RR2cSrZEbvA-Z2LQ90Nx76N0uPDrg/edit#gid=1837925728)
 
 
 Assignments should be placed in telegram bot: https://t.me/mipt2023edu_bot
