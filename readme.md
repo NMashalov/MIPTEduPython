@@ -35,8 +35,26 @@ https://acm.timus.ru/?locale=ru
 
 ## Rating
 
-Current rating is available [here](https://docs.google.com/spreadsheets/d/1R5YdiCNEVAeaU-RR2cSrZEbvA-Z2LQ90Nx76N0uPDrg/edit#gid=1837925728)
+Current rating is available [here](https://docs.google.com/spreadsheets/d/1R5YdiCNEVAeaU-RR2cSrZEbvA-Z2LQ90Nx76N0uPDrg/edit#gid=1837925728).
+
+Each week you'll have test and homework assignments. 
+
+Values:
+
+- Test - 5 points
+- HW - 10 points
+
+
+Course mark will be based on sum of your assignments. 
 
 
 Assignments should be placed in telegram bot: https://t.me/mipt2023edu_bot
+
+## Projects 
+
+Completion of any project will result in Excellent(10) mark for course.
+
+Project should be:
+- kept in Github with `readme.md` description and presentation
+- presented to studying group 
 
