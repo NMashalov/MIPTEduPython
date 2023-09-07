@@ -58,3 +58,5 @@ Project should be:
 - kept in Github with `readme.md` description and presentation
 - presented to studying group 
 
+Tools for sketching ideas: 
+- convenient whiteboard tool: https://excalidraw.com/
