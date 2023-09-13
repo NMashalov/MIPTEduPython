@@ -6,14 +6,21 @@ In 2023 lessons will be available at Thursday each week
 
 ## Timetable
 
-| Lecture | Date | Description | Lecture |
-|---------|------|-------------|---------|  
-| 1 | September, 7 | Introduction. Python and VSCode installation. Git| [slides](lectures/intro.pdf) | 
-| 2 | September, 14 | Basic types. If condition. Modules. | [slides](lectures/lecture1/Isachenko2021DeepGenerativeModels1.pdf) | 
-| 3 | September, 21 | Cycles| [slides](lectures/lecture2/Isachenko2021DeepGenerativeModels2.pdf) |
-| 4 | September, 28 | Collections: sets, strings, lists, tuples| [slides](lectures/lecture2/Isachenko2021DeepGenerativeModels2.pdf) |
-| 5 | October, 5 | Collections methods. Numpy| [slides](lectures/lecture2/Isachenko2021DeepGenerativeModels2.pdf) |
-| 6 | October, 12 | Dict. Generators | [slides](lectures/lecture2/Isachenko2021DeepGenerativeModels2.pdf) |
+| Lecture | Date | Description |
+|---------|------|-------------|  
+| 1 | September, 7 | Introduction. Python and VSCode installation. Git| 
+| 2 | September, 14 | Basic types. If condition. Modules. | 
+| 3 | September, 21 | Cycles| 
+| 4 | September, 28 | Collections: sets, strings, lists, tuples|
+| 5 | October, 5 | Collections methods. Numpy| 
+| 6 | October, 12 | Collections methods. Numpy| 
+| 7 | October, 19 | Functions closures. Recursion. Using *args, **kwargs | 
+| 8 | October, 26 | Functions as object. Lambda functions | 
+| 9 | November, 3 | Sort I. Algorithm complexity, bubble sort, counting sort |
+| 10 | November, 10 | Sort II. Merge sort, heap sort | 
+| 11 | November, 17 | Sort III. Fast sort, radix sort | 
+| 12 | November, 24  | Examination | 
+
 
 ## Organization issues
 
@@ -26,6 +33,7 @@ How to ask question. ABC easy
 
     Example: `Предложи python скрипт запускающий сервер на FastAPI`
 - C. Ask question in [form](https://docs.google.com/spreadsheets/d/1R5YdiCNEVAeaU-RR2cSrZEbvA-Z2LQ90Nx76N0uPDrg/edit#gid=1837925728)
+
 ## Self-education recommendations:
 - Yandex Python handbook:
 https://academy.yandex.ru/handbook/python
@@ -44,9 +52,7 @@ Values:
 - Test - 5 points
 - HW - 10 points
 
-
 Course mark will be based on sum of your assignments. 
-
 
 Assignments should be placed in telegram bot: https://t.me/mipt2023edu_bot
 

@@ -31,6 +31,5 @@ Business requirements:
 I highly recommend to take a look at the other beautiful project:  
 https://intsystems.github.io/ru/course/
 
-Tools for sketching ideas: 
-- convenient whiteboard tool: https://excalidraw.com/
+
  
