@@ -13,11 +13,7 @@ In 2023 lessons will be available at Thursday each week
 | 3 | September, 21 | Cycles| 
 | 4 | September, 28 | Collections: sets, strings, lists, tuples|
 | 5 | October, 5 | Collections methods. Numpy| 
-<<<<<<< HEAD
 | 6 | October, 12 | Dict and list comprehension| 
-=======
-| 6 | October, 12 | Collections methods. Numpy| 
->>>>>>> d1530086f00ed25d5f3ff050923f3fd302228d0b
 | 7 | October, 19 | Functions closures. Recursion. Using *args, **kwargs | 
 | 8 | October, 26 | Functions as object. Lambda functions | 
 | 9 | November, 3 | Sort I. Algorithm complexity, bubble sort, counting sort |
