@@ -1,6 +1,5 @@
 import csv
 import itertools
-import pprint
 
 with open('titanic.csv','r') as f:
     reader = csv.reader(f) 
@@ -8,5 +7,5 @@ with open('titanic.csv','r') as f:
     print('headers',headers)
 
     print("sample:")
-    print((i for i in itertools.islice(reader, 3)))   
+    print([i for i in itertools.islice(reader, 3)])   
     
