@@ -10,12 +10,19 @@ Business requirements:
 - Bot settings also should be easialy modified with uploaded .excel file for convenience of department manager
 
 
+## Document template  
 
-## Document managemnet 
-
-Educational departments are. We can start with very simple task of providing unified form of each document via telegram bot o. 
+Educational departments are. We can start with very simple task of providing unified form of each document via telegram bot. 
 
 Business requirements:
+
+
+## Depersonalization
+
+Schools have lots of redundant work with manually discarding personal information from files. That task can be completed with obtaining dictionary of names.
+
+Package Natasha also can be highly beneficial for our purposes.
+
 
 ## Educational department website 
 
@@ -26,7 +33,6 @@ Business requirements:
 - Title page with basic info about organization structure
 - Attendance requirements
 - Course page with basic info and information about lector  
-
 
 I highly recommend to take a look at the other beautiful project:  
 https://intsystems.github.io/ru/course/
